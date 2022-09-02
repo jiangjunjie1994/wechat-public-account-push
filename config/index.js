@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "cd1ca559d54df03c95e9b1a1a813319c",
 
     // 模板消息id
-    TEMPLATE_ID: "h9dBSlF6DLpY6RLd-phBzbWshIhOBF3uy8DtJZq8ztY",
+    TEMPLATE_ID: "BPMmarIui73yWUViHyNGbgJkM4jft467DFAioI2364Y",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "tMQXCd6OxR0jRCX1oUdKOk3kv2nKUPfAEyLc2eHJQfk",
@@ -52,8 +52,8 @@ export const config = {
      * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
      */
     FESTIVALS: [
-      {"type": "生日", "name": "宝宝", "year": "2000", "date": "04-14"},
-      {"type": "生日", "name": "胖哥", "year": "2000", "date": "01-24"},
+      {"type": "生日", "name": "心雨宝宝", "year": "2000", "date": "04-14"},
+      {"type": "生日", "name": "皓烨宝宝", "year": "2000", "date": "01-24"},
       {"type": "节日", "name": "恋爱纪念日", "year": "2018", "date": "03-05"},
     ],
 
