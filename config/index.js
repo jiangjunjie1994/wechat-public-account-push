@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "cd1ca559d54df03c95e9b1a1a813319c",
 
     // 模板消息id
-    TEMPLATE_ID: "I3EgBUdHWB7sWyPDntFwFVKbwMO3vc2G9TeVCcE6tR8",
+    TEMPLATE_ID: "h9dBSlF6DLpY6RLd-phBzbWshIhOBF3uy8DtJZq8ztY",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "tMQXCd6OxR0jRCX1oUdKOk3kv2nKUPfAEyLc2eHJQfk",
@@ -41,7 +41,7 @@ export const config = {
     // 所在省份
     PROVINCE: "河南",
     // 所在城市
-    CITY: "博爱县",
+    CITY: "焦作",
 
     /** 重要节日相关 */
 
