@@ -13,7 +13,7 @@ export const config = {
     TEMPLATE_ID: "BPMmarIui73yWUViHyNGbgJkM4jft467DFAioI2364Y",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "	oxVqflNO3bTQE1qqByUZE1-OPdT6UXi5BtbF8BB2kq8",
+    CALLBACK_TEMPLATE_ID: "oxVqflNO3bTQE1qqByUZE1-OPdT6UXi5BtbF8BB2kq8",
 
 
     /**
