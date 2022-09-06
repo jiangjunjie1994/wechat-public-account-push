@@ -4,16 +4,16 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "wx5edbcbc692b9a37c",
+    APP_ID: "wxcc7d6e836ecbacdb",
 
     // 公众号APP_SECRET
-    APP_SECRET: "cd1ca559d54df03c95e9b1a1a813319c",
+    APP_SECRET: "7ec4eb4eda35211545990e63ead480b6",
 
     // 模板消息id
-    TEMPLATE_ID: "BPMmarIui73yWUViHyNGbgJkM4jft467DFAioI2364Y",
+    TEMPLATE_ID: "Hk0xkTDd1cX-1b7MvUkvBC0Ur2PU-6jAos3KfT922sQ",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "oxVqflNO3bTQE1qqByUZE1-OPdT6UXi5BtbF8BB2kq8",
+    CALLBACK_TEMPLATE_ID: "tlz7UgiwzIfoY2Rp89xLDV8cD85aWRDGkcr7TmXsTYI",
 
 
     /**
@@ -24,12 +24,12 @@ export const config = {
      * ]
      */
     USERS: [
-      {name: '自己', id: "osH5U6i9mBI7dJzMJPo7_LU-HffY"}, 
-      {name: '心雨', id: "osH5U6mDQNmnooKiNW7ZBrVbSScI"}, 
+      {name: '自己', id: "o3IW46N-FzCiGBf5vp-dJ40wnZaY"}, 
+      {name: '夏玉', id: ""}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
-      {name: '自己',id: "osH5U6i9mBI7dJzMJPo7_LU-HffY"}, 
+      {name: '自己',id: "o3IW46N-FzCiGBf5vp-dJ40wnZaY"}, 
     ],
      
     /**
@@ -41,7 +41,7 @@ export const config = {
     // 所在省份
     PROVINCE: "河南",
     // 所在城市
-    CITY: "焦作",
+    CITY: "郑州",
 
     /** 重要节日相关 */
 
@@ -52,9 +52,9 @@ export const config = {
      * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
      */
     FESTIVALS: [
-      {"type": "生日", "name": "心雨宝宝", "year": "2000", "date": "04-14"},
-      {"type": "生日", "name": "皓烨宝宝", "year": "2000", "date": "01-24"},
-      {"type": "节日", "name": "恋爱纪念日", "year": "2018", "date": "03-05"},
+      {"type": "生日", "name": "江俊杰", "year": "1994", "date": "10-25"},
+      {"type": "生日", "name": "宝贝", "year": "1995", "date": "09-03"},
+      {"type": "节日", "name": "恋爱纪念日", "year": "2018", "date": "07-16"},
     ],
 
     /**
@@ -72,7 +72,7 @@ export const config = {
       * */
     CUSTOMIZED_DATE_LIST: [
       // 在一起的日子
-      {"keyword": "love_day", date: "2018-03-05"},
+      {"keyword": "love_day", date: "2018-06-17"},
       // 结婚纪念日
       {"keyword": "marry_day", date: "2020-01-04"},
       // 退伍日, 不用可以删掉
